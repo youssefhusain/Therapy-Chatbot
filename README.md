@@ -1,4 +1,4 @@
-# Therapy Chatbot
+# Therapy Chatbott
 
 ## Project Description
 
