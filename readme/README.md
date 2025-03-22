@@ -15,3 +15,8 @@ The dataset is sourced from Hugging Face:
 - **Training:** The model was fine-tuned using the cleaned dataset.
 - **Variable Selection:** Careful selection of parameters was done to optimize performance. Details can be found in `parameter.md`.
 
+## Implementation
+- **Continuous Dialogue:** Implemented using LangChain to allow ongoing learning and adaptation.
+- **Multilingual Support:** The chatbot supports both Arabic and English conversations. Details can be found in `model.md`.
+- **Optimized Training:** Various optimizations, including batch size tuning and memory management, were implemented for efficient training. Details can be found in `parameter.md`.
+
