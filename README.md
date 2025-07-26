@@ -1,6 +1,7 @@
 # Therapy Chatbot
 
 
+
 ## Project Description
 
 This project is a therapy chatbot that utilizes the T5 model with LangChain and Streamlit to create an interactive experience for users seeking therapeutic conversations. The bot supports both Arabic and English and can translate between the two languages during conversations.
